@@ -1,0 +1,27 @@
+html { background-color: rgb(50, 50, 50);}
+
+.page {
+    color: rgb(255, 172, 248);
+    font: 1.7rem "Fira Sans", sans-serif;
+}
+
+p {
+    color: rgb(183, 183, 183);
+    font: 1.4rem "Fira Sans", sans-serif;
+}
+
+.header1{
+    color: rgb(183, 183, 183);
+    font: 5.5rem "Fira Sans", sans-serif;
+}
+.header3{
+    color: rgb(183, 183, 183);
+    font: 3.5rem "Fira Sans", sans-serif;
+}
+
+img {
+  height: auto;
+  width: 500px;
+}
+
+
