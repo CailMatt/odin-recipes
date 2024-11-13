@@ -10,6 +10,11 @@ p {
     font: 1.4rem "Fira Sans", sans-serif;
 }
 
+li {
+    color: rgb(183, 183, 183);
+    font: 1.4rem "Fira Sans", sans-serif;
+}
+
 .header1{
     color: rgb(183, 183, 183);
     font: 5.5rem "Fira Sans", sans-serif;
@@ -20,8 +25,11 @@ p {
 }
 
 img {
-  height: auto;
-  width: 500px;
+    margin-left: 250px;
+    margin-top:20px;
+    margin-bottom:20px;
+    height: auto;
+    width: 500px;
 }
 
 
